@@ -1,6 +1,7 @@
 #DirHunter
 Dir-Hunter is an open-source simple tools for checking availabality website directory by brute-forcing, made by Clavin June,
 
+before using dir-hunter you must have "python-requests" library
 Dir-Hunter speed depends on your connection speed,
 
 contact me at : cjuneardo@gmail.com
